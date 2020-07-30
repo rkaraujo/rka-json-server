@@ -1,0 +1,49 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Software",
+      "descricao": "Vídeos sobre Software",
+      "link": "https://www.youtube.com/c/FabioAkita1990/",
+      "cor": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "titulo": "Real Life Software Development",
+      "descricao": "Vídeos sobre a dura vida do desenvolvedor de software",
+      "cor": "#9cd33b"
+    },
+    {
+      "id": 3,
+      "titulo": "Not Real Life Software Development",
+      "descricao": "Vídeos sobre o que outras pessoas pensam que um desenvolvedor faz",
+      "cor": "red"
+    },
+    {
+      "id": 4,
+      "titulo": "Architecture",
+      "descricao": "Vídeos sobre arquitetura de software",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Other",
+      "descricao": "Outros vídeos aleatórios",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 6,
+      "titulo": "Life",
+      "descricao": "Vídeos para refletir",
+      "cor": "#6b5be2"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Não Terceirize suas Decisões!",
+      "url": "https://www.youtube.com/watch?v=D3L8IOncLkg"
+    }
+  ]
+}
